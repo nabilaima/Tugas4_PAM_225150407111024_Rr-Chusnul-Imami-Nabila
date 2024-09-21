@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Daftar Mahasiswa</string>
+    <string-array name="nim">
+        <item>225150407111024</item>
+        <item>225150407111024</item>
+        <item>225150407111024</item>
+    </string-array>
+    <string-array name="nama">
+        <item>Rr Chusnul Imami Nabila</item>
+        <item>Chusnul Imami </item>
+        <item>Imami Nabila</item>
+    </string-array>
+
+</resources>
